@@ -15,7 +15,7 @@ To evaluate three recommender systems, a popularity baseline, a content-based mo
 ## Repository Structure
 
 ```
-DSA4060XA-Week6-StudentID/
+DSA4060XA-Week6-669470/
 ├── DSA4060XA_Week6_Guided_Evaluation_Lab.ipynb
 ├── DSA4060_Week6_Movies.csv
 ├── DSA4060_Week6_Ratings.csv
